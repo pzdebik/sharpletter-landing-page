@@ -13,7 +13,7 @@ const Logo = (props: ILogoProps) => {
   return (
     <span className={`inline-flex items-center text-gray-900 ${fontStyle}`}>
       <img
-        src="/assets/shrpltr.png"
+        src="shrpltr.png"
         alt="Logo Sharpletter przedstawiające otwartą, fioletową kopertę."
         height={size}
         width={size}

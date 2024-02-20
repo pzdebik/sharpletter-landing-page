@@ -34,7 +34,7 @@ const Hero = () => (
           }
         />
         <ScrollDown
-          img="/assets/scroll-down.svg"
+          img="scroll-down.svg"
           altText="Strzałka w dół wpisana w fioletowe koło."
           to="section"
         ></ScrollDown>

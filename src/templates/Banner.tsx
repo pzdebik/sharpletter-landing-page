@@ -4,7 +4,7 @@ import { Section } from '../layout/Section';
 const Banner = () => (
   <Section>
     <CTABanner
-      img="/assets/about-our-team.svg"
+      img="about-our-team.svg"
       altText="Ilustracja przedstawiająca trzech zadowolonych ludzi z ręcami skrzyżowanymi na piersi."
       title="Dołącz do grona innych programistów i poszerzaj swoją wiedzę."
       subtitle="Nowe wydanie w każdy piątek."
