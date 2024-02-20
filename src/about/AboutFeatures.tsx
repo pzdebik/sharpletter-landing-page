@@ -11,7 +11,7 @@ const AboutFeatures = () => {
     return (
       <div className="flex flex-col items-center text-center">
         <img
-          src="/assets/images/speed-go-fast.svg"
+          src="/assets/speed-go-fast.svg"
           alt="Ilustracja samochodu lecącego w powietrzu z pełną szybkością."
           className="mb-4 h-[150px]"
         />
@@ -30,7 +30,7 @@ const AboutFeatures = () => {
           Kliknij na broszurę, aby dowiedzieć się więcej.
         </p>
         <img
-          src="/assets/images/arrow.svg"
+          src="/assets/arrow.svg"
           alt="Strzałka w prawo wpisana w fioletowe koło."
           className="h-[40px] hover:animate-pulse"
         />
@@ -42,7 +42,7 @@ const AboutFeatures = () => {
     return (
       <div className="flex flex-col items-center text-left">
         <img
-          src="/assets/images/newsletter.svg"
+          src="/assets/newsletter.svg"
           alt="Ilustracja mężczyzny siedzącego w fotelu, który czyta gazetę popijając swoją kawę."
           className="mb-4 h-[150px]"
         />

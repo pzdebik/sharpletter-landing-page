@@ -22,7 +22,7 @@ const CenteredFooter = (props: ICenteredFooterProps) => (
 
     <div className="mt-8 w-[150px]">
       <Link href="https://ko-fi.com/sharpletter" target="_blank">
-        <img src="assets/images/ko-fi-btn.png" alt="Postaw mi kawę na ko-fi" />
+        <img src="assets/ko-fi-btn.png" alt="Postaw mi kawę na ko-fi" />
       </Link>
     </div>
 
